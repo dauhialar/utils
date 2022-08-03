@@ -1,0 +1,289 @@
+ time: 324 sec.     [TOTAL] excl: 10908142, INCL: 330371
+= NormalizeRule =
+   INCL: 6061928       excl:5176585    total: 11238513
+= HorToVerDerRule =
+   INCL: 3393388       excl:2668540    total: 6061928
+= GamesAgoInColumnRule =
+   INCL: 1551982       excl:1841406    total: 3393388
+= SortedNormalizeRule =
+   INCL: 1270296       excl:281686    total: 1551982
+= DeltaRule =
+   INCL: 721898       excl:548398    total: 1270296
+ == new chunk method count : 6925
+= HorizonToVerticalDerivativeRule =
+   INCL: 476621       excl:245277    total: 721898
+= ChunkCombinationRule =
+   INCL: 378692       excl:97929    total: 476621
+= OneNumberPerGameAgoRule =
+   INCL: 330371       excl:48321    total: 378692
+
+TOTAL time: 332 sec.     [TOTAL] excl: 10908142, INCL: 330371
+
+
+================
+
+
+= NormalizeRule =
+   INCL: 6061928       excl:5176585    total: 11238513
+= HorToVerDerRule =
+   INCL: 3393388       excl:2668540    total: 6061928
+= GamesAgoInColumnRule =
+   INCL: 1551982       excl:1841406    total: 3393388
+= SortedNormalizeRule =
+   INCL: 1270296       excl:281686    total: 1551982
+= DeltaRule =
+   INCL: 460900       excl:809396    total: 1270296
+ == new chunk method count : 267923
+= HorizonToVerticalDerivativeRule =
+   INCL: 297403       excl:163497    total: 460900
+= ChunkCombinationRule =
+   INCL: 238522       excl:58881    total: 297403
+= OneNumberPerGameAgoRule =
+   INCL: 207982       excl:30540    total: 238522
+TOTAL time: 326 sec.     [TOTAL] excl: 11030531, INCL: 207982
+
+
+
+
+
+ time: 301 sec.     [TOTAL] excl: 11039020, INCL: 199493
+= NormalizeRule =
+   INCL: 6061928       excl:5176585    total: 11238513
+= HorToVerDerRule =
+   INCL: 3264279       excl:2797649    total: 6061928
+                                            == new chunk method count : 129109
+= GamesAgoInColumnRule =
+   INCL: 1493387       excl:1770892    total: 3264279
+= SortedNormalizeRule =
+   INCL: 1222685       excl:270702    total: 1493387
+= DeltaRule =
+   INCL: 445792       excl:776893    total: 1222685
+ == new chunk method count : 257802
+= HorizonToVerticalDerivativeRule =
+   INCL: 285343       excl:160449    total: 445792
+= ChunkCombinationRule =
+   INCL: 228814       excl:56529    total: 285343
+= OneNumberPerGameAgoRule =
+   INCL: 199493       excl:29321    total: 228814
+
+TOTAL time: 310 sec.     [TOTAL] excl: 11039020,            INCL: 199493
+
+
+
+= NormalizeRule =
+   INCL: 6061928       excl:5176585    total: 11238513
+= HorToVerDerRule =
+   INCL: 2985522       excl:3076406    total: 6061928
+                                           == new chunk method count : 407866
+= GamesAgoInColumnRule =
+   INCL: 1364957       excl:1620565    total: 2985522
+= SortedNormalizeRule =
+   INCL: 1117505       excl:247452    total: 1364957
+= DeltaRule =
+   INCL: 406864       excl:710641    total: 1117505
+ == new chunk method count : 232961
+= HorizonToVerticalDerivativeRule =
+   INCL: 256513       excl:150351    total: 406864
+= ChunkCombinationRule =
+   INCL: 205819       excl:50694    total: 256513
+= OneNumberPerGameAgoRule =
+   INCL: 179458       excl:26361    total: 205819
+TOTAL time: 284 sec.     [TOTAL] excl: 11059055,         INCL: 179458
+
+
+= NormalizeRule =
+   INCL: 6061928       excl:5176585    total: 11238513
+= HorToVerDerRule =
+   INCL: 2223253       excl:3838675    total: 6061928
+                                             == new chunk method count : 1170135
+= GamesAgoInColumnRule =
+   INCL: 1015154       excl:1208099    total: 2223253
+= SortedNormalizeRule =
+   INCL: 832320       excl:182834    total: 1015154
+= DeltaRule =
+   INCL: 313254       excl:519066    total: 832320
+ == new chunk method count : 176411
+= HorizonToVerticalDerivativeRule =
+   INCL: 188621       excl:124633    total: 313254
+= ChunkCombinationRule =
+   INCL: 151865       excl:36756    total: 188621
+= OneNumberPerGameAgoRule =
+   INCL: 132480       excl:19385    total: 151865
+TOTAL time: 252 sec.     [TOTAL] excl: 11106033,         INCL: 132480
+
+
+= NormalizeRule =
+   INCL: 6061928       excl:5176585    total: 11238513
+= HorToVerDerRule =
+   INCL: 2067312       excl:3994616    total: 6061928
+                                        == new chunk method count : 1326076
+= GamesAgoInColumnRule =
+   INCL: 944132       excl:1123180    total: 2067312
+= SortedNormalizeRule =
+   INCL: 773889       excl:170243    total: 944132
+= DeltaRule =
+   INCL: 290134       excl:483755    total: 773889
+                                         == new chunk method count : 163276
+= HorizonToVerticalDerivativeRule =
+   INCL: 175971       excl:114163    total: 290134
+= ChunkCombinationRule =
+   INCL: 141740       excl:34231    total: 175971
+= OneNumberPerGameAgoRule =
+   INCL: 123668       excl:18072    total: 141740
+TOTAL time: 234 sec.     [TOTAL] excl: 11114845,               INCL: 123668
+
+
+
+= NormalizeRule =
+    total: 11238513       excl:5176585   INCL: 6061928
+= HorToVerDerRule =
+    total: 6061928       excl:4258480   INCL: 1803448
+ == new chunk method count : 1589940
+= GamesAgoInColumnRule =
+    total: 1803448       excl:1047599   INCL: 755849
+= SortedNormalizeRule =
+    total: 755849       excl:134837   INCL: 621012
+= DeltaRule =
+    total: 621012       excl:402259   INCL: 218753
+= HorizonToVerticalDerivativeRule =
+    total: 218753       excl:209648   INCL: 9105
+ == new chunk method count : 326703
+= ChunkCombinationRule =
+    total: 9105       excl:1832   INCL: 7273
+= OneNumberPerGameAgoRule =
+    total: 7273       excl:2101   INCL: 5172
+ == new chunk method count : 0
+= SumRule =
+    total: 5172       excl:1011   INCL: 4161
+ == new chunk method count : 946
+TOTAL time: 209 sec.     [TOTAL] excl: 11234352, INCL: 4161
+
+
+
+...
+= OneNumberPerGameAgoRule =
+   INCL: 120099       excl:17518    total: 137617
+TOTAL time: 234 sec.     [TOTAL] excl: 11118414, INCL: 120099
+
+
+...
+= HorizonToVerticalDerivativeRule =
+   INCL: 170830       excl:119304    total: 290134
+                                          == new chunk method count : 5928
+
+
+...
+= HorizonToVerticalDerivativeRule =
+   INCL: 101348       excl:188786    total: 290134
+ == new chunk method count : 90828
+...
+TOTAL time: 246 sec.     [TOTAL] excl: 11167395, INCL: 71118
+
+
+ time: 228 sec.     [TOTAL] excl: 11176194, INCL: 62319
+= NormalizeRule =
+    total: 11238513       excl:5176585   INCL: 6061928
+= HorToVerDerRule =
+    total: 6061928       excl:3994616   INCL: 2067312
+ == new chunk method count : 1326076
+= GamesAgoInColumnRule =
+    total: 2067312       excl:1141741   INCL: 925571
+ == new chunk method count : 18561                    <<<
+= SortedNormalizeRule =
+    total: 925571       excl:166292   INCL: 759279
+= DeltaRule =
+    total: 759279       excl:474842   INCL: 284437
+= HorizonToVerticalDerivativeRule =
+    total: 284437       excl:185004   INCL: 99433
+ == new chunk method count : 89136
+= ChunkCombinationRule =
+    total: 99433       excl:19604   INCL: 79829
+= OneNumberPerGameAgoRule =
+    total: 79829       excl:17510   INCL: 62319
+ == new chunk method count : 7275
+TOTAL time: 236 sec.     [TOTAL] excl: 11176194, INCL: 62319
+
+
+= NormalizeRule =
+    total: 11238513       excl:5176585   INCL: 6061928
+= HorToVerDerRule =
+    total: 6061928       excl:3994616   INCL: 2067312
+ == new chunk method count : 1326076
+= GamesAgoInColumnRule =
+    total: 2067312       excl:1190858   INCL: 876454
+= SortedNormalizeRule =
+    total: 876454       excl:157363   INCL: 719091
+= DeltaRule =
+    total: 719091       excl:450089   INCL: 269002
+= HorizonToVerticalDerivativeRule =
+    total: 269002       excl:174974   INCL: 94028
+ == new chunk method count : 167700
+= ChunkCombinationRule =
+    total: 94028       excl:18565   INCL: 75463
+= OneNumberPerGameAgoRule =
+    total: 75463       excl:16567   INCL: 58896
+ == new chunk method count : 0
+= SumRule =
+    total: 58896       excl:9468   INCL: 49428
+ == new chunk method count : 8938
+TOTAL time: 246 sec.     [TOTAL] excl: 11189085, INCL: 49428
+
+===================
+
+...
+= DeltaRule =
+   INCL: 714262       excl:556034    total: 1270296
+ == new chunk method count : 14561
+TOTAL time: 325 sec.     [TOTAL] excl: 10911247, INCL: 327266
+...
+
+<<<<     SortedNormalizeRule      >>>
+
+time: 364 sec.
+TOTAL. excl: 10786773, INCL: 451740
+= SortedNormalizeRule =                                     kGap=15
+   INCL: 1270296       excl:281686    total: 1551982
+
+
+   time: 357 sec.
+   TOTAL. excl: 10789500, INCL: 449013
+   = SortedNormalizeRule =                                     kGap=17
+      INCL: 1262324       excl:289658    total: 1551982
+
+||||||||||||||||||||||||||||
+
+
+<<<<     DeltaRule      >>>
+
+ time: 305 sec.     [TOTAL] excl: 10803421, INCL: 435092
+= DeltaRule =                                            kGap = 20
+   INCL: 878737       excl:391559    total: 1270296
+
+ time: 312 sec.     [TOTAL] excl: 10915607, INCL: 322906
+= DeltaRule =                                      kGap = 30
+   INCL: 791588       excl:478708    total: 1270296
+
+||||||||||||||||||||||||||||
+
+
+<<<<      OneNumberPerGameAgoRule     >>>>
+
+   ... kGap = 20 :
+   time: 333 sec.     [TOTAL] excl: 10851153, INCL: 387360
+   = OneNumberPerGameAgoRule =
+      time: 341 sec.  INCL: 387360       excl:63656    total: 451016
+
+   ... kGap = 40 :
+   time: 356 sec.     [TOTAL] excl: 10880886, INCL: 357627
+   ... kGap = 40
+   = OneNumberPerGameAgoRule =
+      INCL: 357627       excl:93389    total: 451016
+
+   ... kGap = 60
+   time: 348 sec.     [TOTAL] excl: 10911050, INCL: 327463
+      = OneNumberPerGameAgoRule =
+         INCL: 327463       excl:123553    total: 451016
+
+||||||||||||||||||||||||||||||||||||||||||||||
+
+

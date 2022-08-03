@@ -1,0 +1,636 @@
+★ ★ ★  0 	 02/25/17.Sat = [6, 32, 47, 62, 65] = 
+= NormalizeRule =
+    total: 11238513       excl:3232239   INCL: 8006274
+ time: 11 sec.     [TOTAL] excl: 3232239, INCL: 8006274
+
+
+★ ★ ★  1 	 02/22/17.Wed = [10, 13, 28, 52, 61] = 
+= NormalizeRule =
+    total: 11238513       excl:5354682   INCL: 5883831
+ time: 9 sec.     [TOTAL] excl: 5354682, INCL: 5883831
+
+
+★ ★ ★  2 	 02/18/17.Sat = [3, 7, 9, 31, 33] = 
+= NormalizeRule =
+    total: 11238513       excl:4135743   INCL: 7102770
+ time: 8 sec.     [TOTAL] excl: 4135743, INCL: 7102770
+
+
+★ ★ ★  3 	 02/15/17.Wed = [5, 28, 33, 38, 42] = 
+= NormalizeRule =
+    total: 11238513       excl:5527062   INCL: 5711451
+ time: 8 sec.     [TOTAL] excl: 5527062, INCL: 5711451
+
+
+★ ★ ★  4 	 02/11/17.Sat = [5, 9, 17, 37, 64] = 
+= NormalizeRule =
+    total: 11238513       excl:2286245   INCL: 8952268
+ time: 8 sec.     [TOTAL] excl: 2286245, INCL: 8952268
+
+
+★ ★ ★  5 	 02/08/17.Wed = [14, 20, 42, 49, 66] = 
+= NormalizeRule =
+    total: 11238513       excl:4095159   INCL: 7143354
+ time: 7 sec.     [TOTAL] excl: 4095159, INCL: 7143354
+
+
+★ ★ ★  6 	 02/04/17.Sat = [6, 13, 16, 17, 52] = 
+= NormalizeRule =
+    total: 11238513       excl:3135280   INCL: 8103233
+ time: 7 sec.     [TOTAL] excl: 3135280, INCL: 8103233
+
+
+★ ★ ★  7 	 02/01/17.Wed = [9, 43, 57, 60, 64] = 
+= NormalizeRule =
+    total: 11238513       excl:2710069   INCL: 8528444
+ time: 7 sec.     [TOTAL] excl: 2710069, INCL: 8528444
+
+
+★ ★ ★  8 	 01/28/17.Sat = [12, 20, 39, 49, 69] = 
+= NormalizeRule =
+    total: 11238513       excl:4302189   INCL: 6936324
+ time: 7 sec.     [TOTAL] excl: 4302189, INCL: 6936324
+
+
+★ ★ ★  9 	 01/25/17.Wed = [18, 28, 62, 66, 68] = 
+= NormalizeRule =
+    total: 11238513       excl:6134989   INCL: 5103524
+ time: 7 sec.     [TOTAL] excl: 6134989, INCL: 5103524
+
+
+★ ★ ★  10 	 01/21/17.Sat = [23, 25, 45, 52, 67] = 
+= NormalizeRule =
+    total: 11238513       excl:3163577   INCL: 8074936
+ time: 8 sec.     [TOTAL] excl: 3163577, INCL: 8074936
+
+
+★ ★ ★  11 	 01/18/17.Wed = [9, 40, 41, 53, 58] = 
+= NormalizeRule =
+    total: 11238513       excl:6093308   INCL: 5145205
+ time: 5 sec.     [TOTAL] excl: 6093308, INCL: 5145205
+
+
+★ ★ ★  12 	 01/14/17.Sat = [23, 55, 59, 64, 69] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5592417   INCL: 5646096
+ time: 7 sec.     [TOTAL] excl: 5592417, INCL: 5646096
+
+
+★ ★ ★  13 	 01/11/17.Wed = [1, 3, 13, 16, 43] = 
+= NormalizeRule =
+    total: 11238513       excl:4774894   INCL: 6463619
+ time: 8 sec.     [TOTAL] excl: 4774894, INCL: 6463619
+
+
+★ ★ ★  14 	 01/07/17.Sat = [3, 12, 24, 37, 63] = 
+= NormalizeRule =
+    total: 11238513       excl:3537756   INCL: 7700757
+ time: 5 sec.     [TOTAL] excl: 3537756, INCL: 7700757
+
+
+★ ★ ★  15 	 01/04/17.Wed = [16, 17, 29, 41, 42] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5603262   INCL: 5635251
+ time: 6 sec.     [TOTAL] excl: 5603262, INCL: 5635251
+
+
+★ ★ ★  16 	 12/31/16.Sat = [1, 3, 28, 57, 67] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3640096   INCL: 7598417
+ time: 8 sec.     [TOTAL] excl: 3640096, INCL: 7598417
+
+
+★ ★ ★  17 	 12/28/16.Wed = [16, 23, 30, 44, 58] = 
+= NormalizeRule =
+    total: 11238513       excl:7920924   INCL: 3317589
+ time: 4 sec.     [TOTAL] excl: 7920924, INCL: 3317589
+
+
+★ ★ ★  18 	 12/24/16.Sat = [28, 38, 42, 51, 52] = 
+= NormalizeRule =
+    total: 11238513       excl:6940276   INCL: 4298237
+ time: 5 sec.     [TOTAL] excl: 6940276, INCL: 4298237
+
+
+★ ★ ★  19 	 12/21/16.Wed = [25, 33, 40, 54, 68] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5679132   INCL: 5559381
+ time: 5 sec.     [TOTAL] excl: 5679132, INCL: 5559381
+
+
+★ ★ ★  20 	 12/17/16.Sat = [1, 8, 16, 40, 48] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4306676   INCL: 6931837
+ time: 7 sec.     [TOTAL] excl: 4306676, INCL: 6931837
+
+
+★ ★ ★  21 	 12/14/16.Wed = [18, 26, 37, 39, 66] = 
+= NormalizeRule =
+    total: 11238513       excl:2697945   INCL: 8540568
+ time: 8 sec.     [TOTAL] excl: 2697945, INCL: 8540568
+
+
+★ ★ ★  22 	 12/10/16.Sat = [12, 21, 32, 44, 66] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:10369087   INCL: 869426
+ time: 3 sec.     [TOTAL] excl: 10369087, INCL: 869426
+
+
+★ ★ ★  23 	 12/07/16.Wed = [41, 48, 49, 53, 64] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3636120   INCL: 7602393
+ time: 8 sec.     [TOTAL] excl: 3636120, INCL: 7602393
+
+
+★ ★ ★  24 	 12/03/16.Sat = [8, 10, 26, 27, 33] = 
+= NormalizeRule =
+    total: 11238513       excl:4806835   INCL: 6431678
+ time: 5 sec.     [TOTAL] excl: 4806835, INCL: 6431678
+
+
+★ ★ ★  25 	 11/30/16.Wed = [3, 14, 18, 25, 45] = 
+= NormalizeRule =
+    total: 11238513       excl:3894782   INCL: 7343731
+ time: 7 sec.     [TOTAL] excl: 3894782, INCL: 7343731
+
+
+★ ★ ★  26 	 11/26/16.Sat = [17, 19, 21, 37, 44] = 
+= NormalizeRule =
+    total: 11238513       excl:3679625   INCL: 7558888
+ time: 9 sec.     [TOTAL] excl: 3679625, INCL: 7558888
+
+
+★ ★ ★  27 	 11/23/16.Wed = [7, 32, 41, 47, 61] = 
+= NormalizeRule =
+    total: 11238513       excl:3639930   INCL: 7598583
+ time: 5 sec.     [TOTAL] excl: 3639930, INCL: 7598583
+
+
+★ ★ ★  28 	 11/19/16.Sat = [16, 24, 28, 43, 61] = 
+= NormalizeRule =
+    total: 11238513       excl:7912824   INCL: 3325689
+ time: 5 sec.     [TOTAL] excl: 7912824, INCL: 3325689
+
+
+★ ★ ★  29 	 11/16/16.Wed = [28, 41, 61, 63, 65] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3720382   INCL: 7518131
+ time: 6 sec.     [TOTAL] excl: 3720382, INCL: 7518131
+
+
+★ ★ ★  30 	 11/12/16.Sat = [8, 17, 20, 27, 52] = 
+= NormalizeRule =
+    total: 11238513       excl:5833205   INCL: 5405308
+ time: 6 sec.     [TOTAL] excl: 5833205, INCL: 5405308
+
+
+★ ★ ★  31 	 11/09/16.Wed = [1, 25, 28, 31, 54] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5388659   INCL: 5849854
+ time: 5 sec.     [TOTAL] excl: 5388659, INCL: 5849854
+
+
+★ ★ ★  32 	 11/05/16.Sat = [21, 31, 50, 51, 69] = 
+= NormalizeRule =
+    total: 11238513       excl:2518778   INCL: 8719735
+ time: 7 sec.     [TOTAL] excl: 2518778, INCL: 8719735
+
+
+★ ★ ★  33 	 11/02/16.Wed = [13, 18, 37, 54, 61] = 
+= NormalizeRule =
+    total: 11238513       excl:4570959   INCL: 6667554
+ time: 4 sec.     [TOTAL] excl: 4570959, INCL: 6667554
+
+
+★ ★ ★  34 	 10/29/16.Sat = [19, 20, 21, 42, 48] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5655096   INCL: 5583417
+ time: 4 sec.     [TOTAL] excl: 5655096, INCL: 5583417
+
+
+★ ★ ★  35 	 10/26/16.Wed = [2, 3, 16, 48, 56] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5811677   INCL: 5426836
+ time: 4 sec.     [TOTAL] excl: 5811677, INCL: 5426836
+
+
+★ ★ ★  36 	 10/22/16.Sat = [1, 28, 33, 55, 56] = 
+= NormalizeRule =
+    total: 11238513       excl:3262969   INCL: 7975544
+ time: 6 sec.     [TOTAL] excl: 3262969, INCL: 7975544
+
+
+★ ★ ★  37 	 10/19/16.Wed = [10, 16, 38, 43, 63] = 
+= NormalizeRule =
+    total: 11238513       excl:6108103   INCL: 5130410
+ time: 4 sec.     [TOTAL] excl: 6108103, INCL: 5130410
+
+
+★ ★ ★  38 	 10/15/16.Sat = [23, 49, 57, 64, 67] = 
+= NormalizeRule =
+    total: 11238513       excl:3633173   INCL: 7605340
+ time: 6 sec.     [TOTAL] excl: 3633173, INCL: 7605340
+
+
+★ ★ ★  39 	 10/12/16.Wed = [16, 30, 34, 37, 44] = 
+= NormalizeRule =
+    total: 11238513       excl:4309480   INCL: 6929033
+ time: 7 sec.     [TOTAL] excl: 4309480, INCL: 6929033
+
+
+★ ★ ★  40 	 10/08/16.Sat = [3, 54, 61, 64, 68] = 
+= NormalizeRule =
+    total: 11238513       excl:3702646   INCL: 7535867
+ time: 5 sec.     [TOTAL] excl: 3702646, INCL: 7535867
+
+
+★ ★ ★  41 	 10/05/16.Wed = [8, 18, 27, 29, 60] = 
+= NormalizeRule =
+    total: 11238513       excl:5808645   INCL: 5429868
+ time: 5 sec.     [TOTAL] excl: 5808645, INCL: 5429868
+
+
+★ ★ ★  42 	 10/01/16.Sat = [2, 12, 50, 61, 64] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:8476242   INCL: 2762271
+ time: 4 sec.     [TOTAL] excl: 8476242, INCL: 2762271
+
+
+★ ★ ★  43 	 09/28/16.Wed = [30, 38, 52, 53, 62] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3939684   INCL: 7298829
+ time: 8 sec.     [TOTAL] excl: 3939684, INCL: 7298829
+
+
+★ ★ ★  44 	 09/24/16.Sat = [7, 15, 20, 29, 41] = 
+= NormalizeRule =
+    total: 11238513       excl:5807094   INCL: 5431419
+ time: 4 sec.     [TOTAL] excl: 5807094, INCL: 5431419
+
+
+★ ★ ★  45 	 09/21/16.Wed = [1, 28, 63, 67, 69] = 
+= NormalizeRule =
+    total: 11238513       excl:3457729   INCL: 7780784
+ time: 6 sec.     [TOTAL] excl: 3457729, INCL: 7780784
+
+
+★ ★ ★  46 	 09/17/16.Sat = [9, 19, 51, 55, 62] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3187466   INCL: 8051047
+ time: 8 sec.     [TOTAL] excl: 3187466, INCL: 8051047
+
+
+★ ★ ★  47 	 09/14/16.Wed = [10, 11, 23, 28, 31] = 
+= NormalizeRule =
+    total: 11238513       excl:4811540   INCL: 6426973
+ time: 5 sec.     [TOTAL] excl: 4811540, INCL: 6426973
+
+
+★ ★ ★  48 	 09/10/16.Sat = [3, 17, 49, 55, 68] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5711556   INCL: 5526957
+ time: 6 sec.     [TOTAL] excl: 5711556, INCL: 5526957
+
+
+★ ★ ★  49 	 09/07/16.Wed = [22, 23, 29, 33, 55] = 
+= NormalizeRule =
+    total: 11238513       excl:3579994   INCL: 7658519
+ time: 5 sec.     [TOTAL] excl: 3579994, INCL: 7658519
+
+
+★ ★ ★  50 	 09/03/16.Sat = [7, 39, 50, 59, 67] = 
+= NormalizeRule =
+    total: 11238513       excl:4252280   INCL: 6986233
+ time: 5 sec.     [TOTAL] excl: 4252280, INCL: 6986233
+
+
+★ ★ ★  51 	 08/31/16.Wed = [5, 10, 24, 56, 61] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4263591   INCL: 6974922
+ time: 7 sec.     [TOTAL] excl: 4263591, INCL: 6974922
+
+
+★ ★ ★  52 	 08/27/16.Sat = [4, 32, 48, 49, 63] = 
+= NormalizeRule =
+    total: 11238513       excl:3431499   INCL: 7807014
+ time: 5 sec.     [TOTAL] excl: 3431499, INCL: 7807014
+
+
+★ ★ ★  53 	 08/24/16.Wed = [9, 11, 25, 64, 65] = 
+= NormalizeRule =
+    total: 11238513       excl:5571636   INCL: 5666877
+ time: 5 sec.     [TOTAL] excl: 5571636, INCL: 5666877
+
+
+★ ★ ★  54 	 08/20/16.Sat = [3, 6, 21, 60, 68] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:9160718   INCL: 2077795
+ time: 4 sec.     [TOTAL] excl: 9160718, INCL: 2077795
+
+
+★ ★ ★  55 	 08/17/16.Wed = [33, 44, 49, 50, 52] = 
+= NormalizeRule =
+    total: 11238513       excl:10012987   INCL: 1225526
+ time: 4 sec.     [TOTAL] excl: 10012987, INCL: 1225526
+
+
+★ ★ ★  56 	 08/13/16.Sat = [38, 44, 60, 64, 69] = 
+= NormalizeRule =
+    total: 11238513       excl:6091729   INCL: 5146784
+ time: 5 sec.     [TOTAL] excl: 6091729, INCL: 5146784
+
+
+★ ★ ★  57 	 08/10/16.Wed = [23, 56, 61, 64, 67] = 
+= NormalizeRule =
+    total: 11238513       excl:5012647   INCL: 6225866
+ time: 6 sec.     [TOTAL] excl: 5012647, INCL: 6225866
+
+
+★ ★ ★  58 	 08/06/16.Sat = [20, 33, 36, 47, 52] = 
+= NormalizeRule =
+    total: 11238513       excl:3433055   INCL: 7805458
+ time: 5 sec.     [TOTAL] excl: 3433055, INCL: 7805458
+
+
+★ ★ ★  59 	 08/03/16.Wed = [9, 11, 27, 66, 67] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:2994983   INCL: 8243530
+ time: 5 sec.     [TOTAL] excl: 2994983, INCL: 8243530
+
+
+★ ★ ★  60 	 07/30/16.Sat = [11, 17, 21, 23, 32] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:2882634   INCL: 8355879
+ time: 7 sec.     [TOTAL] excl: 2882634, INCL: 8355879
+
+
+★ ★ ★  61 	 07/27/16.Wed = [10, 47, 50, 65, 68] = 
+= NormalizeRule =
+    total: 11238513       excl:5527851   INCL: 5710662
+ time: 4 sec.     [TOTAL] excl: 5527851, INCL: 5710662
+
+
+★ ★ ★  62 	 07/23/16.Sat = [5, 7, 23, 35, 39] = 
+= NormalizeRule =
+    total: 11238513       excl:4016888   INCL: 7221625
+ time: 6 sec.     [TOTAL] excl: 4016888, INCL: 7221625
+
+
+★ ★ ★  63 	 07/20/16.Wed = [6, 25, 35, 58, 66] = 
+= NormalizeRule =
+    total: 11238513       excl:2990839   INCL: 8247674
+ time: 8 sec.     [TOTAL] excl: 2990839, INCL: 8247674
+
+
+★ ★ ★  64 	 07/16/16.Sat = [11, 17, 40, 50, 62] = 
+= NormalizeRule =
+    total: 11238513       excl:4834379   INCL: 6404134
+ time: 4 sec.     [TOTAL] excl: 4834379, INCL: 6404134
+
+
+★ ★ ★  65 	 07/13/16.Wed = [3, 15, 29, 54, 57] = 
+= NormalizeRule =
+    total: 11238513       excl:3113470   INCL: 8125043
+ time: 6 sec.     [TOTAL] excl: 3113470, INCL: 8125043
+
+
+★ ★ ★  66 	 07/09/16.Sat = [10, 28, 32, 61, 64] = 
+= NormalizeRule =
+    total: 11238513       excl:5675300   INCL: 5563213
+ time: 4 sec.     [TOTAL] excl: 5675300, INCL: 5563213
+
+
+★ ★ ★  67 	 07/06/16.Wed = [2, 24, 31, 57, 66] = 
+= NormalizeRule =
+    total: 11238513       excl:3010074   INCL: 8228439
+ time: 6 sec.     [TOTAL] excl: 3010074, INCL: 8228439
+
+
+★ ★ ★  68 	 07/02/16.Sat = [10, 34, 39, 59, 63] = 
+= NormalizeRule =
+    total: 11238513       excl:6170220   INCL: 5068293
+ time: 4 sec.     [TOTAL] excl: 6170220, INCL: 5068293
+
+
+★ ★ ★  69 	 06/29/16.Wed = [23, 29, 37, 60, 64] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4601198   INCL: 6637315
+ time: 6 sec.     [TOTAL] excl: 4601198, INCL: 6637315
+
+
+★ ★ ★  70 	 06/25/16.Sat = [3, 27, 36, 56, 69] = 
+= NormalizeRule =
+    total: 11238513       excl:2062222   INCL: 9176291
+ time: 9 sec.     [TOTAL] excl: 2062222, INCL: 9176291
+
+
+★ ★ ★  71 	 06/22/16.Wed = [14, 40, 42, 43, 52] = 
+= NormalizeRule =
+    total: 11238513       excl:5716404   INCL: 5522109
+ time: 4 sec.     [TOTAL] excl: 5716404, INCL: 5522109
+
+
+★ ★ ★  72 	 06/18/16.Sat = [2, 23, 41, 53, 63] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4498111   INCL: 6740402
+ time: 6 sec.     [TOTAL] excl: 4498111, INCL: 6740402
+
+
+★ ★ ★  73 	 06/15/16.Wed = [4, 22, 24, 31, 33] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5022066   INCL: 6216447
+ time: 5 sec.     [TOTAL] excl: 5022066, INCL: 6216447
+
+
+★ ★ ★  74 	 06/11/16.Sat = [20, 27, 36, 41, 58] = 
+= NormalizeRule =
+    total: 11238513       excl:2649351   INCL: 8589162
+ time: 6 sec.     [TOTAL] excl: 2649351, INCL: 8589162
+
+
+★ ★ ★  75 	 06/08/16.Wed = [12, 25, 37, 60, 69] = 
+= NormalizeRule =
+    total: 11238513       excl:3620552   INCL: 7617961
+ time: 6 sec.     [TOTAL] excl: 3620552, INCL: 7617961
+
+
+★ ★ ★  76 	 06/04/16.Sat = [16, 20, 22, 43, 64] = 
+= NormalizeRule =
+    total: 11238513       excl:6169406   INCL: 5069107
+ time: 4 sec.     [TOTAL] excl: 6169406, INCL: 5069107
+
+
+★ ★ ★  77 	 06/01/16.Wed = [23, 30, 33, 40, 69] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3843135   INCL: 7395378
+ time: 6 sec.     [TOTAL] excl: 3843135, INCL: 7395378
+
+
+★ ★ ★  78 	 05/28/16.Sat = [6, 33, 34, 58, 59] = 
+= NormalizeRule =
+    total: 11238513       excl:2897273   INCL: 8341240
+ time: 8 sec.     [TOTAL] excl: 2897273, INCL: 8341240
+
+
+★ ★ ★  79 	 05/25/16.Wed = [11, 24, 41, 59, 64] = 
+= NormalizeRule =
+    total: 11238513       excl:5418047   INCL: 5820466
+ time: 4 sec.     [TOTAL] excl: 5418047, INCL: 5820466
+
+
+★ ★ ★  80 	 05/21/16.Sat = [5, 7, 9, 23, 32] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:6133137   INCL: 5105376
+ time: 7 sec.     [TOTAL] excl: 6133137, INCL: 5105376
+
+
+★ ★ ★  81 	 05/18/16.Wed = [23, 25, 39, 54, 67] = 
+= NormalizeRule =
+    total: 11238513       excl:2407109   INCL: 8831404
+ time: 5 sec.     [TOTAL] excl: 2407109, INCL: 8831404
+
+
+★ ★ ★  82 	 05/14/16.Sat = [13, 27, 47, 64, 65] = 
+= NormalizeRule =
+    total: 11238513       excl:5012468   INCL: 6226045
+ time: 6 sec.     [TOTAL] excl: 5012468, INCL: 6226045
+
+
+★ ★ ★  83 	 05/11/16.Wed = [20, 32, 52, 66, 69] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4215299   INCL: 7023214
+ time: 4 sec.     [TOTAL] excl: 4215299, INCL: 7023214
+
+
+★ ★ ★  84 	 05/07/16.Sat = [5, 25, 26, 44, 66] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:8457748   INCL: 2780765
+ time: 4 sec.     [TOTAL] excl: 8457748, INCL: 2780765
+
+
+★ ★ ★  85 	 05/04/16.Wed = [30, 47, 57, 66, 69] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4766410   INCL: 6472103
+ time: 5 sec.     [TOTAL] excl: 4766410, INCL: 6472103
+
+
+★ ★ ★  86 	 04/30/16.Sat = [3, 12, 16, 32, 34] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:5631716   INCL: 5606797
+ time: 4 sec.     [TOTAL] excl: 5631716, INCL: 5606797
+
+
+★ ★ ★  87 	 04/27/16.Wed = [2, 25, 33, 39, 64] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:4643193   INCL: 6595320
+ time: 6 sec.     [TOTAL] excl: 4643193, INCL: 6595320
+
+
+★ ★ ★  88 	 04/23/16.Sat = [19, 35, 46, 59, 62] = 
+= NormalizeRule =
+    total: 11238513       excl:2650595   INCL: 8587918
+ time: 9 sec.     [TOTAL] excl: 2650595, INCL: 8587918
+
+
+★ ★ ★  89 	 04/20/16.Wed = [12, 25, 30, 52, 62] = 
+= NormalizeRule =
+    total: 11238513       excl:4800528   INCL: 6437985
+ time: 4 sec.     [TOTAL] excl: 4800528, INCL: 6437985
+
+
+★ ★ ★  90 	 04/16/16.Sat = [3, 18, 25, 32, 51] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:8471089   INCL: 2767424
+ time: 4 sec.     [TOTAL] excl: 8471089, INCL: 2767424
+
+
+★ ★ ★  91 	 04/13/16.Wed = [30, 33, 35, 38, 64] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:2266243   INCL: 8972270
+ time: 6 sec.     [TOTAL] excl: 2266243, INCL: 8972270
+
+
+★ ★ ★  92 	 04/09/16.Sat = [14, 22, 23, 41, 61] = 
+= NormalizeRule =
+    total: 11238513       excl:4342296   INCL: 6896217
+ time: 6 sec.     [TOTAL] excl: 4342296, INCL: 6896217
+
+
+★ ★ ★  93 	 04/06/16.Wed = [4, 28, 49, 60, 65] = 
+= NormalizeRule =
+    total: 11238513       excl:3356480   INCL: 7882033
+ time: 8 sec.     [TOTAL] excl: 3356480, INCL: 7882033
+
+
+★ ★ ★  94 	 04/02/16.Sat = [9, 28, 30, 40, 61] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:6535478   INCL: 4703035
+ time: 4 sec.     [TOTAL] excl: 6535478, INCL: 4703035
+
+
+★ ★ ★  95 	 03/30/16.Wed = [24, 44, 53, 55, 63] = 
+= NormalizeRule =
+    total: 11238513       excl:2908805   INCL: 8329708
+ time: 6 sec.     [TOTAL] excl: 2908805, INCL: 8329708
+
+
+★ ★ ★  96 	 03/26/16.Sat = [11, 23, 42, 52, 68] = 
+= NormalizeRule =
+    total: 11238513       excl:5527416   INCL: 5711097
+ time: 4 sec.     [TOTAL] excl: 5527416, INCL: 5711097
+
+
+★ ★ ★  97 	 03/23/16.Wed = [5, 8, 15, 22, 49] = 
+= NormalizeRule =
+    total: 11238513       excl:2908670   INCL: 8329843
+ time: 6 sec.     [TOTAL] excl: 2908670, INCL: 8329843
+
+
+★ ★ ★  98 	 03/19/16.Sat = [11, 23, 43, 54, 60] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:3200710   INCL: 8037803
+ time: 7 sec.     [TOTAL] excl: 3200710, INCL: 8037803
+
+
+★ ★ ★  99 	 03/16/16.Wed = [10, 12, 13, 46, 50] = 
+ >>> BOOOOO <<< : NormalizeRule
+= NormalizeRule =
+    total: 11238513       excl:2854569   INCL: 8383944
+ time: 8 sec.     [TOTAL] excl: 2854569, INCL: 8383944
+
+
+
+ ERRORS: 	 34, #: [12, 15, 16, 19, 20, 22, 23, 29, 31, 34, 35, 42, 43, 46, 48, 51, 54, 59, 60, 69, 72, 73, 77, 80, 83, 84, 85, 86, 87, 90, 91, 94, 98, 99] 		 Denied: 	 4681328;  Accepted: 6557185 		 time: 	 5; 	 total : 648 sec.
